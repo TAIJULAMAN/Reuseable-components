@@ -26,8 +26,8 @@ git clone https://github.com/TAIJULAMAN/Reuseable-components.git
 ```
 
 ### 2. Install Dependencies
-cd reusable-react-components
-npm install
+ # cd reusable-react-components
+ # npm install
 
 ### 3. Contribution
 
