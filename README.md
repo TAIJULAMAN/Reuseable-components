@@ -20,7 +20,7 @@ Welcome to the **Reusable React Components** repository! This collection feature
 
 ## How to Use
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/TAIJULAMAN/Reuseable-components.git
@@ -28,21 +28,15 @@ cd reusable-react-components
 npm install
 ```
 
-### 2. Install Dependencies
-
-# cd reusable-react-components
-
-# npm install
-
-### 3. Contribution
+###  Contribution
 
 I welcome contributions! If you have suggestions for new components or improvements to existing ones, feel free to open an issue or submit a pull request. Please follow the contribution guidelines outlined in the CONTRIBUTING.md file.
 
-### 4. License
+###  License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### 5. Acknowledgments
+###  Acknowledgments
 
 Feel free to customize the repository URL and the paths as per your project setup.
 
