@@ -1,15 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import HeaderWithSearchbar from "./Navbar/HeaderWithSearchbar/HeaderWithSearchbar"
+import NavbarWithCenterNavigationLink from "./Navbar/NavbarWithCenterNavigationLink/NavbarWithCenterNavigationLink"
+import NavbarwithTopBar from "./Navbar/NavbarwithTopBar/NavbarwithTopBar"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+   <>
+   <NavbarWithCenterNavigationLink/>
+   <HeaderWithSearchbar/>
+   <NavbarwithTopBar/>
+   </>
   )
 }
 
